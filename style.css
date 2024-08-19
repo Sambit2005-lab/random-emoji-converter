@@ -1,0 +1,38 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+
+}
+
+h2{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-style: italic;
+   color: #a02020;
+
+}
+
+.section{
+    align-items: center;
+
+}
+.btn{
+    font-size: 4.5rem; 
+    background-color: rgb(228, 204, 174); 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.para{
+    color: #b32084;
+    padding-left: 38px;
+}
